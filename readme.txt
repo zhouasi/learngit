@@ -7,3 +7,7 @@ Git is a version control system
 Creating a new branch is quick.`
 Git is a version control system.
 Git is a version control system.
+<<<<<<< HEAD
+=======
+Git is a version control system.
+>>>>>>> dev
