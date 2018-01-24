@@ -5,3 +5,5 @@ Git is a version control system.
 Git tracks changes.
 Git is a version control system
 Creating a new branch is quick.`
+Git is a version control system.
+Git is a version control system.
