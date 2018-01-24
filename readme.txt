@@ -23,3 +23,5 @@ Creating a new branch is quick & simple.
 
 >>>>>>> fueature
 
+Creating a new branch is quick & simple.
+helloworld Creating a new branch is quick & simple.
